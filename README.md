@@ -249,6 +249,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 </details>
 
+Nice work!
+
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
